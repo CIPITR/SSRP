@@ -29,7 +29,7 @@ For experiments on subset of CQA having 100 questions per type, download the pre
 * **Step 7:** The experiments on gold data from the above two datasets using Stable Reward Programmer are hosted at *SRP* (https://github.com/CIPITR/CIPITR)
 
 ## Experiments on the noisy entity, relation, type linking data 
-* **Step 14:** This section contains experimentation details of the SSRP Model.
+* **Step 14:** This section contains the necessary experimentation details pertaining to the paper.
 
 * **Step 15:** To do so go inside *{repo_root}/code/NPI/pytorch/noisy_WikiData_CSQA* folder
 
