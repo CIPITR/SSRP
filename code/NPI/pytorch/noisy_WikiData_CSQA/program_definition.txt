@@ -1,0 +1,6 @@
+gen_set	entity,relation,type	set
+verify	entity,relation,entity	bool
+set_oper_count	set	int
+set_oper_union	set,set	set
+set_oper_ints	set,set	set
+set_oper_diff	set,set	set
